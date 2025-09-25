@@ -6,5 +6,8 @@ public class Main{
         System.out.println("Hello from Java Program");
         System.out.println(new Date());
 
+        //
+        System.out.println("Learning Jenkins is fun");
+        System.out.println("Northeastern University");
     }
 }
