@@ -9,5 +9,8 @@ public class Main{
         //
         System.out.println("Learning Jenkins is fun");
         System.out.println("Northeastern University");
+
+        Student student=new Student();
+        student.sayHello();
     }
 }
